@@ -1,3 +1,14 @@
+"# Roman-to-Decimal-Conversion"
+
+Roman_Decimal.exe converts Roman number system values into their equivalent Hindu-Arabic number system values
+
+In order to fulfill subtractive notation:
+
+My solution uses an algorithm where any Roman numeral digit which proceeds another Roman numeral digit and is 
+of less value, is subtracted from the total sum rather than being added to the total sum.
+
+Output Example:
+
 10 Roman numeral values will be input and converted into
 their equivalent Hindu - Arabic numeric values.
 
@@ -31,6 +42,4 @@ MDMCMLMXMVMIM = 6334
 Input Roman numeral #: 10  MDMDCDCLCLXLXVXVIVIII
 MDMDCDCLCLXLXVXVIVIII = 2667
 
-THATS ALL FOLKS :)
-
-Press any key to contiune . . . :)
+Press any key to contiune 
